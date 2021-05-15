@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1619916844 source:c:\users\jems8\desktop\lab2.2021\clase1\2021claseslab\trabajonumero2\tp2-fechas\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+	"funciones.h"
+
+1619852387 source:c:\users\jems8\desktop\lab2.2021\clase1\2021claseslab\trabajonumero2\tp2-fechas\fecha.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+	<ctime>
+
+1619652834 c:\users\jems8\desktop\lab2.2021\clase1\2021claseslab\trabajonumero2\tp2-fechas\fecha.h
+
+1619917357 source:c:\users\jems8\desktop\lab2.2021\clase1\2021claseslab\trabajonumero2\tp2-fechas\funciones.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	<ctime>
+
+1619916817 c:\users\jems8\desktop\lab2.2021\clase1\2021claseslab\trabajonumero2\tp2-fechas\funciones.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+	<ctime>
+
