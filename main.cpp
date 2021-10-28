@@ -9,6 +9,7 @@ using namespace std;
 int main()
 
 {
+    //HOLA MUNDO SOY JUAN CRUZ
     int a,b,c;
       FechaUno f1,f2(13,8,1989),f4(15,8,2021),f3("14/8/2020");
 cout<<"LA FECHA DEL SISTEMA ACTUAL ES: "<<endl;
